@@ -1,0 +1,32 @@
+{
+  "1": {
+    "item_name": "\u2726 ELYSIUM PICKAXE \u2726",
+    "server": "elysium",
+    "price": 2500000,
+    "suggested_by": "sooperbloo",
+    "suggested_by_id": 1167198383912534117,
+    "timestamp": "2026-03-07T20:29:21.040180+00:00",
+    "status": "unsure",
+    "agree_votes": [],
+    "disagree_votes": [
+      "1167198383912534117"
+    ],
+    "voted_by": [
+      "1167198383912534117"
+    ],
+    "review_message_id": 1479939031839019160
+  },
+  "2": {
+    "item_name": "\u2726 ARCANE PICKAXE \u2726",
+    "server": "elysium",
+    "price": 2500000,
+    "suggested_by": "sooperbloo",
+    "suggested_by_id": 1167198383912534117,
+    "timestamp": "2026-03-07T21:41:57.813689+00:00",
+    "status": "pending",
+    "agree_votes": [],
+    "disagree_votes": [],
+    "voted_by": [],
+    "review_message_id": 1479957305540743199
+  }
+}
